@@ -5,7 +5,7 @@
     Wordle Games built with Next.js and tailwindcss.
     <br />
     <br />
-    <a href="wordle-game-pearl.vercel.app" target="_blank">View Demo</a>
+    <a href="https://wordle-game-pearl.vercel.app/" target="_blank">View Demo</a>
   </p>
 </p>
 

@@ -5,10 +5,6 @@ import { ThemeButton } from '@components';
 export function Header() {
   const buttonData = [
     {
-      name: "Home",
-      link: "/"
-    },
-    {
       name: "5 Letters Words",
       link: "/5-latter-wordle-words"
     },
